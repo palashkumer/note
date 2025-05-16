@@ -1,6 +1,6 @@
 # 📝 Note
 
-A simple and elegant note-taking web application built with Laravel and Tailwind CSS.
+A simple and elegant note-taking web application built with Laravel Breeze auth and Tailwind CSS.
 
 ## 🎬 Project Demo
 
@@ -11,11 +11,9 @@ A simple and elegant note-taking web application built with Laravel and Tailwind
 
 ## 🚀 Features
 
-- ✍️ Create, edit, and delete notes
-- 📂 Organize notes with tags
-- 🔍 Search functionality
-- 🌙 Dark mode support
-- 🔐 User authentication
+-  Create, edit, and delete notes
+-  User registration and login with Breeze Auth
+-  Email SMTP.
 
 ---
 
