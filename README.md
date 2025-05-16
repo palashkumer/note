@@ -25,7 +25,7 @@ A simple and elegant note-taking web application built with Laravel Breeze auth 
 
 # 2. Navigate to the project directory
 ```bash
-cd CareerCraft
+cd note
 ```
 
 # 3. Install PHP dependencies
