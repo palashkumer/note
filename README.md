@@ -15,19 +15,6 @@ A simple and elegant note-taking web application built with Laravel Breeze auth 
 -  User registration and login with Breeze Auth
 -  Email SMTP.
 
----
-
-## 📸 Demo
-
-![Note App Demo](demo.gif)
-
-▶️ [Watch Full Demo Video](demo.webm)
-
-> **Note**
-> If the video doesn't play directly, please download it to view.
-
----
-
 ## 🛠️ Installation
 
 1. **Clone the repository:**
