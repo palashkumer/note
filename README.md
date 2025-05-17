@@ -40,7 +40,7 @@ Configure database:
 php artisan migrate
 ```
 
-# 5. Install JavaScript dependencies (optional if using frontend assets)
+# 5. Install JavaScript dependencies
 ```bash
 npm install && npm run dev
 ```
