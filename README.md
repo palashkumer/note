@@ -12,7 +12,7 @@ A simple and elegant note-taking web application built with Laravel Breeze auth 
 ## 🚀 Features
 
 -  Create, edit, and delete notes
--  User registration and login with Breeze Auth
+-  User authentication using Laravel Breeze
 -  Email SMTP.
 
 ## 🛠️ Installation
